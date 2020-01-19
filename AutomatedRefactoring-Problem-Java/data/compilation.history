@@ -1,0 +1,45 @@
+<session>
+  <edit resource="test/com/industriallogic/example/EmployeeTest.java" stamp="1579392679360" />
+  <edit resource="src/com/industriallogic/example/Job.java" stamp="1579393220236" />
+  <edit resource="src/com/industriallogic/example/Manager.java" stamp="1579393226828" />
+  <edit resource="src/com/industriallogic/example/Programmer.java" stamp="1579393241033" />
+  <edit resource="src/com/industriallogic/example/Employee.java" stamp="1579393435779" />
+  <edit resource="src/com/industriallogic/example/Programmer.java" stamp="1579393476196">
+    <error lineNumber="17" message="';' expected" />
+    <error lineNumber="18" message="Invalid method declaration; return type required" />
+    <error lineNumber="19" message="Cannot return a value from a method with void result type" />
+  </edit>
+  <edit resource="src/com/industriallogic/example/Programmer.java" stamp="1579393477436" />
+  <edit resource="src/com/industriallogic/example/Programmer.java" stamp="1579393487082">
+    <error lineNumber="17" message="';' expected" />
+    <error lineNumber="18" message="Invalid method declaration; return type required" />
+    <error lineNumber="19" message="Cannot return a value from a method with void result type" />
+  </edit>
+  <edit resource="src/com/industriallogic/example/Programmer.java" stamp="1579393487758" />
+  <edit resource="src/com/industriallogic/example/Programmer.java" stamp="1579393913799">
+    <error lineNumber="17" message="'{' or ';' expected" />
+    <error lineNumber="17" message="Cannot resolve symbol 'of'" />
+    <error lineNumber="17" message="Unknown class: 'Job.TEST'" />
+    <error lineNumber="17" message="Identifier expected" />
+    <error lineNumber="17" message="Unexpected token" />
+    <error lineNumber="17" message="Unknown class: 'Job.PROGRAM'" />
+    <error lineNumber="17" message="Identifier expected" />
+    <error lineNumber="17" message="Unexpected token" />
+    <error lineNumber="17" message="Unknown class: 'Job.INTEGRATE'" />
+    <error lineNumber="17" message="Identifier expected" />
+    <error lineNumber="17" message="Unexpected token" />
+    <error lineNumber="17" message="Unknown class: 'Job.DESIGN'" />
+    <error lineNumber="17" message="Identifier expected" />
+    <error lineNumber="17" message="Unexpected token" />
+    <error lineNumber="20" message="Cannot resolve symbol 'responsibilities'" />
+  </edit>
+  <edit resource="src/com/industriallogic/example/Programmer.java" stamp="1579393920549" />
+  <edit resource="src/com/industriallogic/example/Programmer.java" stamp="1579394389164">
+    <error lineNumber="24" message="'responsibilities()' in 'com.industriallogic.example.Programmer' clashes with 'responsibilities()' in 'com.industriallogic.example.Employee'; attempting to assign weaker access privileges ('private'); was 'protected'" />
+  </edit>
+  <edit resource="src/com/industriallogic/example/Programmer.java" stamp="1579394400538" />
+  <edit resource="src/com/industriallogic/example/Manager.java" stamp="1579395167299">
+    <error lineNumber="34" message="'responsibilities()' in 'com.industriallogic.example.Manager' clashes with 'responsibilities()' in 'com.industriallogic.example.Employee'; attempting to assign weaker access privileges ('private'); was 'protected'" />
+  </edit>
+  <edit resource="src/com/industriallogic/example/Manager.java" stamp="1579395191382" />
+</session>

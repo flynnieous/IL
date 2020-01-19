@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca8c1c05-3278-4260-b11c-dd47b170915e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="174" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WajxmVdwyGusvQEyKHAfzbRsqi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AutomatedRefactoring-Problem-Java.ipr" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.EmployeeTest">
+    <configuration name="All in AutomatedRefactoring-Problem-Java" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomatedRefactoring-Problem-Java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomatedRefactoring-Problem-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.industriallogic.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.industriallogic.example" />
+      <option name="MAIN_CLASS_NAME" value="com.industriallogic.example.EmployeeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmployeeTest" />
+        <item itemvalue="JUnit.All in AutomatedRefactoring-Problem-Java" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca8c1c05-3278-4260-b11c-dd47b170915e" name="Default Changelist" comment="" />
+      <created>1579394848766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579394848766</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="96" key="#Project_Structure" timestamp="1579394885890">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="278" y="96" key="#Project_Structure/0.0.1368.872@0.0.1368.872" timestamp="1579394885890" />
+    <state x="141" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579394940977">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="141" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1579394940977" />
+    <state x="491" y="147" key="#com.intellij.ide.util.MemberChooser" timestamp="1579395285491">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="491" y="147" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1579395285491" />
+    <state x="394" y="190" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1579395242993">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="394" y="190" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1368.872@0.0.1368.872" timestamp="1579395242993" />
+    <state width="1292" height="211" key="GridCell.Tab.0.bottom" timestamp="1579398744950">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="211" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1579398744950" />
+    <state width="1292" height="211" key="GridCell.Tab.0.center" timestamp="1579398744950">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="211" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1579398744950" />
+    <state width="1292" height="211" key="GridCell.Tab.0.left" timestamp="1579398744950">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="211" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1579398744950" />
+    <state width="1292" height="211" key="GridCell.Tab.0.right" timestamp="1579398744950">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1292" height="211" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1579398744950" />
+    <state x="501" y="372" key="ReplaceDuplicatesPrompt" timestamp="1579395244791">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="501" y="372" key="ReplaceDuplicatesPrompt/0.0.1368.872@0.0.1368.872" timestamp="1579395244791" />
+    <state x="416" y="193" key="extract.method.dialog" timestamp="1579395020895">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="416" y="193" key="extract.method.dialog/0.0.1368.872@0.0.1368.872" timestamp="1579395020895" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AutomatedRefactoring_Problem_Java$EmployeeTest.ic" NAME="EmployeeTest Coverage Results" MODIFIED="1579395475937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.industriallogic.example.*</FILTER>
+    </SUITE>
+  </component>
+</project>

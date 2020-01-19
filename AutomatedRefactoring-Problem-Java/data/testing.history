@@ -1,0 +1,66 @@
+<session>
+  <testrun stamp="1579393576943" start="1579393576943">
+    <pass name="oneJobDoneOneJobSkippedByManager(com.industriallogic.example.EmployeeTest)" />
+    <pass name="noJobsPerformed(com.industriallogic.example.EmployeeTest)" />
+    <pass name="noJobsDone(com.industriallogic.example.EmployeeTest)" />
+    <pass name="threeJobsPerformedNoneSkippedByProgrammer(com.industriallogic.example.EmployeeTest)" />
+    <pass name="oneJobDoneOneJobSkippedByProgrammer(com.industriallogic.example.EmployeeTest)" />
+    <pass name="threeJobsPerformedNoneSkippedByManager(com.industriallogic.example.EmployeeTest)" />
+  </testrun>
+  <testrun stamp="1579393837621" start="1579393837621">
+    <pass name="noJobsPerformed(com.industriallogic.example.EmployeeTest)" />
+    <pass name="noJobsDone(com.industriallogic.example.EmployeeTest)" />
+    <pass name="threeJobsPerformedNoneSkippedByProgrammer(com.industriallogic.example.EmployeeTest)" />
+    <pass name="threeJobsPerformedNoneSkippedByManager(com.industriallogic.example.EmployeeTest)" />
+    <pass name="oneJobDoneOneJobSkippedByProgrammer(com.industriallogic.example.EmployeeTest)" />
+    <pass name="oneJobDoneOneJobSkippedByManager(com.industriallogic.example.EmployeeTest)" />
+  </testrun>
+  <testrun stamp="1579394596057" start="1579394596057">
+    <pass name="oneJobDoneOneJobSkippedByManager(com.industriallogic.example.EmployeeTest)" />
+    <pass name="oneJobDoneOneJobSkippedByProgrammer(com.industriallogic.example.EmployeeTest)" />
+    <pass name="threeJobsPerformedNoneSkippedByManager(com.industriallogic.example.EmployeeTest)" />
+    <pass name="threeJobsPerformedNoneSkippedByProgrammer(com.industriallogic.example.EmployeeTest)" />
+    <pass name="noJobsDone(com.industriallogic.example.EmployeeTest)" />
+    <pass name="noJobsPerformed(com.industriallogic.example.EmployeeTest)" />
+  </testrun>
+  <testrun stamp="1579394625430" start="1579394625430">
+    <pass name="noJobsPerformed(com.industriallogic.example.EmployeeTest)" />
+    <pass name="noJobsDone(com.industriallogic.example.EmployeeTest)" />
+    <pass name="threeJobsPerformedNoneSkippedByProgrammer(com.industriallogic.example.EmployeeTest)" />
+    <pass name="threeJobsPerformedNoneSkippedByManager(com.industriallogic.example.EmployeeTest)" />
+    <pass name="oneJobDoneOneJobSkippedByProgrammer(com.industriallogic.example.EmployeeTest)" />
+    <pass name="oneJobDoneOneJobSkippedByManager(com.industriallogic.example.EmployeeTest)" />
+  </testrun>
+  <testrun stamp="1579394956442" start="1579394956442">
+    <pass name="noJobsPerformed(com.industriallogic.example.EmployeeTest)" />
+    <pass name="noJobsDone(com.industriallogic.example.EmployeeTest)" />
+    <pass name="threeJobsPerformedNoneSkippedByManager(com.industriallogic.example.EmployeeTest)" />
+    <pass name="threeJobsPerformedNoneSkippedByProgrammer(com.industriallogic.example.EmployeeTest)" />
+    <pass name="oneJobDoneOneJobSkippedByProgrammer(com.industriallogic.example.EmployeeTest)" />
+    <pass name="oneJobDoneOneJobSkippedByManager(com.industriallogic.example.EmployeeTest)" />
+  </testrun>
+  <testrun stamp="1579395217708" start="1579395217708">
+    <pass name="threeJobsPerformedNoneSkippedByProgrammer(com.industriallogic.example.EmployeeTest)" />
+    <pass name="oneJobDoneOneJobSkippedByProgrammer(com.industriallogic.example.EmployeeTest)" />
+    <pass name="oneJobDoneOneJobSkippedByManager(com.industriallogic.example.EmployeeTest)" />
+    <pass name="noJobsPerformed(com.industriallogic.example.EmployeeTest)" />
+    <pass name="noJobsDone(com.industriallogic.example.EmployeeTest)" />
+    <pass name="threeJobsPerformedNoneSkippedByManager(com.industriallogic.example.EmployeeTest)" />
+  </testrun>
+  <testrun stamp="1579395332808" start="1579395332808">
+    <pass name="threeJobsPerformedNoneSkippedByProgrammer(com.industriallogic.example.EmployeeTest)" />
+    <pass name="oneJobDoneOneJobSkippedByProgrammer(com.industriallogic.example.EmployeeTest)" />
+    <pass name="threeJobsPerformedNoneSkippedByManager(com.industriallogic.example.EmployeeTest)" />
+    <pass name="oneJobDoneOneJobSkippedByManager(com.industriallogic.example.EmployeeTest)" />
+    <pass name="noJobsPerformed(com.industriallogic.example.EmployeeTest)" />
+    <pass name="noJobsDone(com.industriallogic.example.EmployeeTest)" />
+  </testrun>
+  <testrun stamp="1579395477135" start="1579395477135">
+    <pass name="noJobsDone(com.industriallogic.example.EmployeeTest)" />
+    <pass name="noJobsPerformed(com.industriallogic.example.EmployeeTest)" />
+    <pass name="oneJobDoneOneJobSkippedByManager(com.industriallogic.example.EmployeeTest)" />
+    <pass name="threeJobsPerformedNoneSkippedByProgrammer(com.industriallogic.example.EmployeeTest)" />
+    <pass name="oneJobDoneOneJobSkippedByProgrammer(com.industriallogic.example.EmployeeTest)" />
+    <pass name="threeJobsPerformedNoneSkippedByManager(com.industriallogic.example.EmployeeTest)" />
+  </testrun>
+</session>
