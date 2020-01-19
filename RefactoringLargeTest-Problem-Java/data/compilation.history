@@ -1,0 +1,51 @@
+<session>
+  <edit resource="test/com/industriallogic/builder/TagNodeTest.java" stamp="1579398905055" />
+  <edit resource="test/com/industriallogic/builder/TagNodeTest.java" stamp="1579400801063">
+    <error lineNumber="40" message="Cannot resolve symbol 'expected'" />
+    <error lineNumber="51" message="Cannot resolve symbol 'expected'" />
+  </edit>
+  <edit resource="test/com/industriallogic/builder/TagNodeTest.java" stamp="1579400879991">
+    <error lineNumber="38" message="Cannot resolve symbol 'expected'" />
+    <error lineNumber="49" message="Cannot resolve symbol 'expected'" />
+  </edit>
+  <edit resource="test/com/industriallogic/builder/TagNodeTest.java" stamp="1579400981793" />
+  <edit resource="test/com/industriallogic/builder/TagNodeTest.java" stamp="1579401038661">
+    <error lineNumber="38" message="Cannot resolve symbol 'expected'" />
+    <error lineNumber="49" message="Cannot resolve symbol 'expected'" />
+  </edit>
+  <edit resource="test/com/industriallogic/builder/TagNodeTest.java" stamp="1579401039295">
+    <error lineNumber="38" message="Cannot resolve symbol 'expected'" />
+    <error lineNumber="49" message="Cannot resolve symbol 'expected'" />
+    <error lineNumber="68" message="Cannot resolve symbol 'T'" />
+  </edit>
+  <edit resource="test/com/industriallogic/builder/TagNodeTest.java" stamp="1579401039848">
+    <error lineNumber="38" message="Cannot resolve symbol 'expected'" />
+    <error lineNumber="49" message="Cannot resolve symbol 'expected'" />
+  </edit>
+  <edit resource="test/com/industriallogic/builder/TagNodeTest.java" stamp="1579401041003">
+    <error lineNumber="40" message="Cannot resolve symbol 'expected'" />
+    <error lineNumber="51" message="Cannot resolve symbol 'expected'" />
+  </edit>
+  <edit resource="test/com/industriallogic/builder/TagNodeTest.java" stamp="1579401046004" />
+  <edit resource="test/com/industriallogic/builder/TagNodeTest.java" stamp="1579401049513">
+    <error lineNumber="40" message="Cannot resolve symbol 'expected'" />
+    <error lineNumber="51" message="Cannot resolve symbol 'expected'" />
+  </edit>
+  <edit resource="test/com/industriallogic/builder/TagNodeTest.java" stamp="1579401051926" />
+  <edit resource="test/com/industriallogic/builder/TagNodeTest.java" stamp="1579401740763">
+    <error lineNumber="36" message="Cannot resolve symbol 'M'" />
+    <error lineNumber="36" message="';' expected" />
+  </edit>
+  <edit resource="test/com/industriallogic/builder/TagNodeTest.java" stamp="1579401741360" />
+  <edit resource="src/com/industriallogic/builder/TagNode.java" stamp="1579402231378" />
+  <edit resource="src/com/industriallogic/builder/Attribute.java" stamp="1579402231378" />
+  <edit resource="src/com/industriallogic/builder/TagPrinter.java" stamp="1579402231378" />
+  <edit resource="test/com/industriallogic/builder/TagNodeTest.java" stamp="1579448591199">
+    <error lineNumber="37" message="Cannot resolve symbol 'addAttributesToOrdersNode'" />
+    <error lineNumber="37" message="';' expected" />
+  </edit>
+  <edit resource="test/com/industriallogic/builder/TagNodeTest.java" stamp="1579448593051">
+    <error lineNumber="37" message="';' expected" />
+  </edit>
+  <edit resource="test/com/industriallogic/builder/TagNodeTest.java" stamp="1579448593644" />
+</session>

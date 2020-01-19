@@ -1,0 +1,121 @@
+<session>
+  <testrun stamp="1579398861163" start="1579398861163">
+    <pass name="testNode(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579400776844" start="1579400776844">
+    <pass name="testNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579401001829" start="1579401001829">
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="testNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="ordersNodeWithDateAndOrderCount(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579401109076" start="1579401109076">
+    <pass name="testNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579401195735" start="1579401195735">
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+    <fail name="testNode(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579401221978" start="1579401221978">
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+    <fail name="testNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="orderWithDateAndOrderCount(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579401425648" start="1579401425648">
+    <pass name="orderWithDateAndOrderCount(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+    <fail name="testNode(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579401934425" start="1579401934425">
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="testNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="ordersWithDateAndCount(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579401992156" start="1579401992156">
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+    <fail name="testNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="ordersWithDateAndCount(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579402216663" start="1579402216663">
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+    <fail name="testNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="ordersWithDateAndCount(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579448038927" start="1579448038927">
+    <pass name="testNode(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579448262854" start="1579448262854">
+    <pass name="testNode(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579448325835" start="1579448325835">
+    <pass name="testNode(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579448362139" start="1579448362139">
+    <pass name="testNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579448496424" start="1579448496424">
+    <pass name="testNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579448642781" start="1579448642781">
+    <pass name="testNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="OrdersNodeWithAttributes(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579448773804" start="1579448773804">
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="testNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="OrdersNodeWithAttributes(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579448794483" start="1579448794483">
+    <pass name="ordersNodeWithOneOrder(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="OrdersNodeWithAttributes(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="testNode(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579448854736" start="1579448854736">
+    <pass name="OrdersNodeWithAttributes(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="ordersNodeWithOneOrder(com.industriallogic.builder.TagNodeTest)" />
+    <fail name="testNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579448879247" start="1579448879247">
+    <fail name="testNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="ordersNodeWithOneOrder(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="OrdersNodeWithAttributes(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="ordersNodeWithValue(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579448948516" start="1579448948516">
+    <pass name="ordersNodeWithOneOrder(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="OrdersNodeWithAttributes(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="ordersNodeWithValue(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+    <fail name="testNode(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579448991970" start="1579448991970">
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="testNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="ordersNodeWithValue(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="OrdersNodeWithAttributes(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="ordersNodeWithOneOrder(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579449084869" start="1579449084869">
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="testNode(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="ordersNodeWithOneOrder(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="OrdersNodeWithAttributes(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="ordersNodeWithValue(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+  <testrun stamp="1579449582763" start="1579449582763">
+    <pass name="ordersNodeWithOneOrder(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="ordersNodeWithValue(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="fiveOrdersOneWithChild(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="OrdersNodeWithAttributes(com.industriallogic.builder.TagNodeTest)" />
+    <pass name="emptyOrdersNode(com.industriallogic.builder.TagNodeTest)" />
+  </testrun>
+</session>
