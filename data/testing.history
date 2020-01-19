@@ -1,0 +1,465 @@
+<session>
+  <testrun stamp="1579454119091" start="1579454119091">
+    <fail name="zeroSalesIsZeroIndividualBonus(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579454133424" start="1579454133424">
+    <pass name="zeroSalesIsZeroIndividualBonus(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579454456487" start="1579454456487">
+    <fail name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="zeroSalesIsZeroIndividualBonus(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579454484801" start="1579454484801">
+    <pass name="zeroSalesIsZeroIndividualBonus(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579454566680" start="1579454566680">
+    <pass name="zeroSalesIsZeroIndividualBonus(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579454728699" start="1579454728699">
+    <pass name="zeroSalesIsZeroIndividualBonus(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579454766569" start="1579454766569">
+    <pass name="zeroSalesIsZeroIndividualBonus(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579454895207" start="1579454895207">
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="zeroSalesIsZeroIndividualBonus(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579455151706" start="1579455151706">
+    <pass name="zeroSalesIsZeroIndividualBonus(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="positiveSalesLessThanQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579455256100" start="1579455256100">
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="zeroSalesIsZeroIndividualBonus(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579455354045" start="1579455354045">
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="zeroSalesIsZeroIndividualBonus(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579455395644" start="1579455395644">
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="zeroSalesIsZeroIndividualBonus(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579455412798" start="1579455412798">
+    <pass name="zeroSalesIsZeroIndividualBonus(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579455867462" start="1579455867462">
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579455901044" start="1579455901044">
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579455926014" start="1579455926014">
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579456284529" start="1579456284529">
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579456319684" start="1579456319684">
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579456363938" start="1579456363938">
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579456418948" start="1579456418948">
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579456467379" start="1579456467379">
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579456511786" start="1579456511786">
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579456776720" start="1579456776720" />
+  <testrun stamp="1579456795140" start="1579456795140">
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesBelowQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579456819220" start="1579456819220">
+    <fail name="singleMemberTeamSalesBelowQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579456842008" start="1579456842008">
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="singleMemberTeamSalesBelowQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579456898542" start="1579456898542">
+    <pass name="singleMemberTeamSalesBelowQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579456992218" start="1579456992218">
+    <pass name="singleMemberTeamSalesBelowQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579457306377" start="1579457306377">
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesBelowQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579457420120" start="1579457420120">
+    <pass name="singleMemberTeamSalesBelowQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579457546246" start="1579457546246">
+    <fail name="multipleMembersDivideCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesBelowQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579457583590" start="1579457583590">
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesBelowQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="multipleMembersDivideCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579457670583" start="1579457670583">
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesBelowQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="multipleMembersDivideCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="zeroTeamMembersZeroCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579457719438" start="1579457719438">
+    <pass name="multipleMembersDivideCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="zeroTeamMembersZeroCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesBelowQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579457752580" start="1579457752580">
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesBelowQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="multipleMembersDivideCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="zeroTeamMembersZeroCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579457867378" start="1579457867378">
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesBelowQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="multipleMembersDivideCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="zeroTeamMembersZeroCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579457919590" start="1579457919590">
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesBelowQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="multipleMembersDivideCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="zeroTeamMembersZeroCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579458054010" start="1579458054010">
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesBelowQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="multipleMembersDivideCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="zeroTeamMembersZeroCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579458238718" start="1579458238718">
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesBelowQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="zeroTeamMembersZeroCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="multipleMembersDivideCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579458241605" start="1579458241605">
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesBelowQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="zeroTeamMembersZeroCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="multipleMembersDivideCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579458321345" start="1579458321345">
+    <pass name="zeroTeamMembersZeroCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="multipleMembersDivideCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesBelowQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579458431087" start="1579458431087">
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesBelowQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="multipleMembersDivideCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="zeroTeamMembersZeroCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579458483512" start="1579458483512">
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesBelowQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="zeroTeamMembersZeroCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="multipleMembersDivideCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579458575349" start="1579458575349">
+    <pass name="zeroTeamMembersZeroCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="multipleMembersDivideCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesBelowQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579458645646" start="1579458645646">
+    <pass name="positiveSalesLessThanOrEqualToQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionZeroTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesAboveQuotaPaysCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="salesAboveQuotaPaysCommissionLessTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="singleMemberTeamSalesBelowQuotaPaysZero(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="multipleMembersDivideCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="zeroTeamMembersZeroCommission(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579459369951" start="1579459369951">
+    <fail name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579459399303" start="1579459399303">
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579459506343" start="1579459506343">
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579459549698" start="1579459549698">
+    <fail name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579459627192" start="1579459627192">
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579459738179" start="1579459738179">
+    <fail name="individualBelowQuot(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579459801320" start="1579459801320">
+    <pass name="individualBelowQuot(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579459825501" start="1579459825501">
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualBelowQuot(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579459853268" start="1579459853268">
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualMustBeAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579462422992" start="1579462422992">
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualMustBeAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579462646685" start="1579462646685">
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="teamNoQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualMustBeAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579462688100" start="1579462688100">
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamNoQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualMustBeAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579462713209" start="1579462713209">
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="teamNoQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualMustBeAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579462767389" start="1579462767389">
+    <pass name="individualMustBeAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamNoQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579462863129" start="1579462863129">
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamNoQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="teamAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualMustBeAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579462891766" start="1579462891766">
+    <pass name="individualMustBeAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamNoQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579462959925" start="1579462959925">
+    <pass name="teamNoQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="teamAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualMustBeAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579462997315" start="1579462997315">
+    <pass name="individualMustBeAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamNoQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579463104739" start="1579463104739">
+    <pass name="individualMustBeAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="teamZeroMembers(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamNoQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579463165816" start="1579463165816">
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamZeroMembers(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamNoQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualMustBeAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579463311239" start="1579463311239">
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamNoQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamZeroMembers(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <fail name="teamBelowQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualMustBeAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579463434493" start="1579463434493">
+    <pass name="individualMustBeAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamBelowQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamNoQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamZeroMembers(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579463469849" start="1579463469849">
+    <pass name="individualMustBeAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamZeroMembers(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamNoQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamBelowQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579463672382" start="1579463672382">
+    <pass name="teamNoQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualMustBeAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamBelowQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamZeroMembers(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579463871869" start="1579463871869">
+    <pass name="individualMustBeAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamNoQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="indivisualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamZeroMembers(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamBelowQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+  <testrun stamp="1579463930981" start="1579463930981">
+    <pass name="individualWithTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamZeroMembers(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualNoTax(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamBelowQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="teamNoQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+    <pass name="individualMustBeAboveQuota(com.industriallogic.bonus.BonusCalculatorTest)" />
+  </testrun>
+</session>
